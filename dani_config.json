@@ -1,6 +1,6 @@
 
 {
-  "config_version": 5,
+  "config_version": 6,
 
   "ars_to_bob": {
     "p2p_operation": "SELL",
