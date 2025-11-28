@@ -6,7 +6,7 @@
     "payment_methods": ["BancoSolidario"],
     "min_amount": 100.0,
     "verified_only": false,
-    "profit_margin": 0.0003
+    "profit_margin": 0.00027
   },
 
   "bob_to_ars": {
