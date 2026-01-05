@@ -1,5 +1,5 @@
 {
-  "config_version": 13,
+  "config_version": 14,
 
   "ars_to_bob": {
     "p2p_operation": "SELL",
@@ -11,10 +11,10 @@
 
   "bob_to_ars": {
     "p2p_operation": "BUY",
-    "payment_methods": ["BancoSolidario"],
+    "payment_methods": ["Todo"],
     "min_amount": 100.0,
     "verified_only": true,
-    "profit_margin": -0.00021
+    "profit_margin": -0.00027
   }
 }
 
